@@ -1,4 +1,4 @@
-#### Enough iPython For Everyday Programming
+#### Enough iPython For Everyday Programming!
 
 **Event:** BangPypers April Meetup (25-04-2015)
 
@@ -19,7 +19,7 @@
 ------------------------------------------------------------------------------
 
 
-#### Emacs as Python IDE?
+#### Emacs as Python IDE!
 
 **Event:** BangPypers February Meetup (21-02-2015)
 
