@@ -2,7 +2,7 @@
 
 **Event:** BangPypers April Meetup (25-04-2015)
 
-**Duration:** 45 minutes
+**Duration:** 30 minutes
 
 **Content:** [Slides](http://chillaranand.github.io/everyday-ipython/)
 
