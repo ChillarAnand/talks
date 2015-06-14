@@ -1,3 +1,14 @@
+
+#### Django Gotchas!
+
+**Event:** Bangalore Django User Group June Meetup (06-06-2015)
+
+**Duration:** 30 Minutes
+
+**Content:** [Slides](http://chillaranand.github.io/django-gotcha/)
+
+------------------------------------------------------------------------------
+
 #### Enough iPython For Everyday Programming!
 
 **Event:** BangPypers April Meetup (25-04-2015)
