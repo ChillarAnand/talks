@@ -1,3 +1,12 @@
+#### Python Traceback For Humans!
+
+**Event:** PyCon India (04-10-2015)
+
+**Duration:** 45 Minutes
+
+**Content:** [Slides](http://chillaranand.github.io/py-trace/), [Code](https://github.com/ChillarAnand/py-trace/tree/gh-pages/code)
+
+------------------------------------------------------------------------------
 
 #### Django Gotchas!
 
