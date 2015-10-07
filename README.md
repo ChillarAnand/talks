@@ -8,6 +8,14 @@
 
 ------------------------------------------------------------------------------
 
+#### Emacs As Python IDE!
+
+**Event:** PyCon India Open Space (04-10-2015)
+
+**Duration:** ~20 Minutes
+
+------------------------------------------------------------------------------
+
 #### Django Gotchas!
 
 **Event:** Bangalore Django User Group June Meetup (06-06-2015)
