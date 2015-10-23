@@ -2,11 +2,11 @@
 
 #### Getting Started With Pandas
 
-** Event: ** BangPypers October Meetup (24-10-2015)
+**Event:** BangPypers October Meetup (24-10-2015)
 
-** Duration:** 30 Minutes
+**Duration:** 30 Minutes
 
-** Content: ** [Slides](http://chillaranand.github.io/pandas-101/),
+**Content:** [Slides](http://chillaranand.github.io/pandas-101/),
 [Code](https://github.com/ChillarAnand/pandas-101/tree/master/code)
 
 ------------------------------------------------------------------------------
