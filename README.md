@@ -1,10 +1,23 @@
+------------------------------------------------------------------------------
+
+#### Getting Started With Pandas
+
+** Event: ** BangPypers October Meetup (24-10-2015)
+
+** Duration:** 30 Minutes
+
+** Content: ** [Slides](http://chillaranand.github.io/pandas-101/),
+[Code](https://github.com/ChillarAnand/pandas-101/tree/master/code)
+
+------------------------------------------------------------------------------
+
 #### Python Traceback For Humans!
 
 **Event:** PyCon India (04-10-2015)
 
 **Duration:** 45 Minutes
 
-**Content:** [Slides](http://chillaranand.github.io/py-trace/), [Code](https://github.com/ChillarAnand/py-trace/tree/gh-pages/code)
+**Content:** [Slides](http://chillaranand.github.io/py-trace/), [Code](https://github.com/ChillarAnand/py-trace/tree/gh-pages/code), [Video](https://www.youtube.com/watch?v=EGhG8VEatBE)
 
 ------------------------------------------------------------------------------
 
